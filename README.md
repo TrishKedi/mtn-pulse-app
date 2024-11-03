@@ -66,14 +66,14 @@ The MTN Pulse App follows a modular, microservices-based architecture, designed 
    - Ensures scalable compute and storage resources.
    - Supports containerized deployments using Docker and enables CI/CD with Jenkins for continuous integration.
 
-     <img src="https://github.com/TrishKedi/professional-projects/blob/main/Pulse%20APP%20Architecture.jpeg"/>
+     <img src="https://github.com/TrishKedi/professional-projects/blob/main/assets/architectural-diagrams/Pulse%20APP%20Architecture.jpeg"/>
 
 ---
 
 ## 🏗️ Flow Diagrams
 
   1. **VAS**:
-    <img src="https://github.com/TrishKedi/professional-projects/blob/main/Pulse%20APP%20VASAPPS.jpeg"/>
+    <img src="https://github.com/TrishKedi/professional-projects/blob/main/assets/transaction-flow-diagrams/Pulse%20APP%20VASAPPS.jpeg"/>
     
 ---    
 
@@ -86,9 +86,12 @@ The MTN Pulse App follows a modular, microservices-based architecture, designed 
 
 ## 🌐 Live Demo
 
-Experience the MTN Pulse App live through one of the options below:
+Explore the MTN Pulse APP: 
 
-1. **[Interactive Web Demo (Hosted on Heroku)](https://your-heroku-app-link.com)** - A full-featured web version of the MTN Pulse App where you can explore features like data bundle purchases, promotional content, and in-app notifications.
+1. **[Google Play](https://play.google.com/store/apps/details?id=com.mtnuganda.mtnpulse)**
+2. **[App Store](https://apps.apple.com/us/app/mtn-pulse-uganda/id1436304212)**
+
+<!-- 1. **[Interactive Web Demo (Hosted on Heroku)](https://your-heroku-app-link.com)** - A full-featured web version of the MTN Pulse App where you can explore features like data bundle purchases, promotional content, and in-app notifications.
    
 2. **[Static Demo (GitHub Pages)](https://trishkedi.github.io/mtn-pulse-demo)** - A frontend-only version with mock data for a secure yet realistic experience.
 
@@ -96,8 +99,8 @@ Experience the MTN Pulse App live through one of the options below:
 
 4. **[Mobile APK Download](https://your-firebase-link.com)** - Test the app directly on your Android device (Demo version with limited features).
 
-> **Note**: The demo versions use mocked data to simulate a real user experience without affecting live systems or user data.
+> **Note**: The demo versions use mocked data to simulate a real user experience without affecting live systems or user data. -->
 
 
-Thank you for exploring the MTN Pulse App repository! For further information, please feel free to reach out or check out the detailed documentation in the `docs` folder.
-# mtn-pulse-app
+<!-- Thank you for exploring the MTN Pulse App repository! For further information, please feel free to reach out or check out the detailed documentation in the `docs` folder.
+# mtn-pulse-app -->
